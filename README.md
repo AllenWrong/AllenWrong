@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-**AllenWrong/AllenWrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**AllenWrong/AllenWrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on data structure, net work, operation system, organization and ...。
 - 🌱 I’m currently learning 408. FOR Postgraduate Entrance Examination.
