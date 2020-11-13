@@ -3,6 +3,7 @@
 <!--
 **AllenWrong/AllenWrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+![](https://github-readme-stats.vercel.app/api?username=allenwrong&hide_border=true&show_icons=true&line_height=30)
 - 🔭 I’m currently working on data structure, net work, operation system, organization and ...。
 - 🌱 I’m currently learning 408. FOR Postgraduate Entrance Examination.
 - 👯 I’m looking to collaborate on basic computer knowledge.
