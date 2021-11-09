@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![image](https://github.com/AllenWrong/AllenWrong/blob/main/you.gif)
+<div align=center>![image](https://github.com/AllenWrong/AllenWrong/blob/main/isyou.gif)</div>
 
 <!--
 **AllenWrong/AllenWrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
