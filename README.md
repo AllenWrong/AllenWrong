@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![image](https://github.com/AllenWrong/AllenWrong/blob/main/isyou.gif#pic_center)
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=556476097714075201" height="359" width="800" frameborder="0" scrolling="no" ></iframe>
 
 <!--
 **AllenWrong/AllenWrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
