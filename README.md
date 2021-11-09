@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![image](https://github.com/AllenWrong/AllenWrong/blob/master/you.gif)
+![image](https://github.com/AllenWrong/AllenWrong/blob/main/you.gif)
 
 <!--
 **AllenWrong/AllenWrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -16,7 +16,7 @@
 
 
 <p align="center"> 
-  Visitors (From 08/06/2020):<br>
+  Visitors (From 11/09/2021):<br>
   <img src="https://profile-counter.glitch.me/AllenWrong/count.svg" />
 </p>
 
