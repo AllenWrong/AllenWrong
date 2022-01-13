@@ -7,7 +7,7 @@
 **AllenWrong/AllenWrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-![](https://github-readme-stats.vercel.app/api?username=allenwrong&hide_border=true&show_icons=true&line_height=25)
+![](https://github-readme-stats.vercel.app/api?username=allenwrong&hide_border=true&show_icons=true&line_width=50&line_height=25)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=allenwrong&hide_border=true&langs_count=8&layout=compact)
 
 
