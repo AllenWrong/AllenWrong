@@ -11,8 +11,8 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=allenwrong&hide_border=true&langs_count=8&layout=compact) -->
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=allenwrong&count_private=true&hide_border=true&show_icons=true&line_height=25&theme=tokyonight"">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=allenwrong&hide_border=true&langs_count=8&layout=compact&theme=tokyonight"">
+  <img src = "https://github-readme-stats.vercel.app/api?username=allenwrong&count_private=true&hide_border=true&show_icons=true&line_height=25">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=allenwrong&hide_border=true&langs_count=8&layout=compact" width="90%">
 </p>
 
 
