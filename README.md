@@ -14,6 +14,10 @@
 - ⚡ My interest subject: Math. History. Economic. Old Chinese. Philosophy. Investment... so many.
 - 😄 A fun project: https://github.com/AllenWrong/nand2tetris (you can build a simple modern computer)
 
+<details>
+  <summary><b>:telescope: Resume</b></summary>
+</details>
+
 
 <p align="center"> 
   Visitors (From 11/09/2021):<br>
