@@ -7,7 +7,12 @@
 **AllenWrong/AllenWrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-![](https://github-readme-stats.vercel.app/api?username=allenwrong&hide_border=true&show_icons=true&line_height=30)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=allenwrong&hide_border=true&show_icons=true&line_height=30) -->
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=allenwrong&count_private=true&show_icons=true&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=allenwrong&langs_count=8&layout=compact">
+</p>
+
 
 - 👯 I’m looking to collaborate on basic computer knowledge.
 - 💬 Ask me about (?)
