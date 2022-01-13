@@ -23,29 +23,29 @@
   <summary><b>:man_technologist: Resume</b></summary>
   
   ## Person Information 
-  - :school: Undergraduate school: Shandong Normal University
+  - :school: **Undergraduate school:** Shandong Normal University
     - Major in Computer Science
-  - :school: Current University: **Beijing University of Posts and Telecommunications**
+  - :school: **Current University:** Beijing University of Posts and Telecommunications
     - Mainly studying Maching Learning and Multi-Modal Machine Learning
-  - QQ: 884691896
-  - Wechat: gg15020654388
-  - Email: 884691896@qq.com
+  - **QQ:** 884691896
+  - **Wechat:** gg15020654388
+  - **Email:** 884691896@qq.com
  
   ## Project
   
   #### **Nand to Tetris** <a href="https://github.com/AllenWrong/nand2tetris">here</a> 
-    - What i did 1
-    - What i did 2
-    - ...
+  - What i did 1
+  - What i did 2
+  - ...
   
   #### **SimpleDb** <a href="http://dsg.csail.mit.edu/6.830/sched.php">Reference 6.830</a>
-    - What i did 1
-    - What i did 2
-    - ...
+  - What i did 1
+  - What i did 2
+  - ...
   
   #### **Incomplete Multi-Modal Clustering System**
-    - What i did 1
-    - What i did 2
+  - What i did 1
+  - What i did 2
   
 </details>
 
