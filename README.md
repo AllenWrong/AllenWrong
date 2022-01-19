@@ -15,10 +15,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=allenwrong&hide_border=true&langs_count=8&layout=compact" style="width:40%">
 </p>
 
-
-- ⚡ My interest subject: Math. History. Economic. Old Chinese. Philosophy. Investment... so many.
-- 😄 A fun project: https://github.com/AllenWrong/nand2tetris (you can build a simple modern computer)
-
 <details>
   <summary><b>:man_technologist: Resume</b></summary>
   
