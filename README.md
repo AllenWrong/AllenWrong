@@ -22,7 +22,7 @@
   - :school: **Undergraduate school:** Shandong Normal University
     - Major in Computer Science
   - :school: **Current University:** Beijing University of Posts and Telecommunications
-    - Mainly studying Maching Learning and Multi-Modal Machine Learning
+    - Mainly studying Machine Learning and Multi-Modal Machine Learning
   - **QQ:** 884691896
   - **Wechat:** gg15020654388
   - **Email:** 884691896@qq.com
