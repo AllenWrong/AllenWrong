@@ -15,13 +15,9 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=allenwrong&hide_border=true&langs_count=8&layout=compact" style="width:40%">
 </p>
 
-<details>
-  <summary><a href="./English_Resume_ZhongchaoGuan.pdf"><b>:man_technologist: Resume_EN</b></a></summary>
-</details>
+<summary><a href="English_Resume_ZhongchaoGuan.pdf"><b>:man_technologist: Resume_EN</b></a></summary>
 
-<details>
-  <summary><a href="简历-关忠超.pdf"><b>:man_technologist: Resume_EN</b></a></summary>
-</details>
+<summary><a href="简历-关忠超.pdf"><b>:man_technologist: Resume_ZH</b></a></summary>
 
 <p align="center"> 
   Visitors (From 11/09/2021):<br>
