@@ -17,8 +17,8 @@
 
 
 <summary>
-<a href="简历-关忠超.pdf"><b>:man_technologist: Resume_ZH</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="English_Resume_ZhongchaoGuan.pdf"><b>Resume_EN</b></a>
+<a href="简历-关忠超.pdf" target="_blank"><b>:man_technologist: Resume_ZH</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="English_Resume_ZhongchaoGuan.pdf" target="_blank"><b>Resume_EN</b></a>
 </summary>
 
 <p align="center"> 
