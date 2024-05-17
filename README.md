@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+**Data is the expression of information and the carrier of patterns. Models are tools for understanding these patterns. Training a neural network is about comprehending the patterns in data and enabling the neural network to perform according to these patterns. A passion for discovering patterns drives my love for training neural networks.**
 
 <!-- ![image](https://github.com/AllenWrong/AllenWrong/blob/main/temp.gif) -->
 
