@@ -22,8 +22,3 @@
 <a href="English_Resume_ZhongchaoGuan.pdf" target="_blank"><b>Resume_EN</b></a>
 </summary>
 
-<p align="center"> 
-  Visitors (From 11/09/2021):<br>
-  <img src="https://profile-counter.glitch.me/AllenWrong/count.svg" />
-</p>
-
