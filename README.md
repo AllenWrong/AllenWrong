@@ -11,14 +11,4 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=allenwrong&count_private=true&hide_border=true&show_icons=true&line_height=25) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=allenwrong&hide_border=true&langs_count=8&layout=compact) -->
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=allenwrong&count_private=true&hide_border=true&show_icons=true&line_height=25">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=allenwrong&hide_border=true&langs_count=8&layout=compact" style="width:40%">
-</p>
-
-
-<summary>
-<a href="简历-关忠超.pdf" target="_blank"><b>:man_technologist: Resume_ZH</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="English_Resume_ZhongchaoGuan.pdf" target="_blank"><b>Resume_EN</b></a>
-</summary>
-
+**Contact Me With gg884691896@gmail.com**
